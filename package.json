@@ -1,0 +1,13 @@
+{
+  "name": "telegram-reaction-bots",
+  "version": "1.0.0",
+  "description": "Multi-bot Telegram auto-reaction system with consent-based opt-in, deployed on Vercel",
+  "main": "index.js",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.x"
+  },
+  "dependencies": {
+    "node-fetch": "^2.7.0"
+  }
+}
